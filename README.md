@@ -3,6 +3,12 @@
 # ZenCompare 🚀
 
 🔗 **Live Demo:** https://devikanaik29.github.io/zencompare1/
+## 🔑 Login Instructions
+
+Create your own account and log in to explore the website features.
+
+(Note: This is a demo project, so any valid signup details can be used.)
+
 
 ## 📌 About the Project
 
